@@ -1,0 +1,27 @@
+[
+    {
+    "title":"News 1",
+    "src":"news.png",
+    "description" :"Lorem ipsum dolor sit amet consectetur adipisicing elit.Consequuntur eveniet illo repellendus a perferendis soluta consectetur odit expedita dignissimos non cumque, voluptatum rerum eaque rem magni, molestias repudiandae eligendi explicabo?",
+    "name":"Matt User1"
+},
+    {
+    "title":"News 2",
+    "src":"news.png",
+    "description" :"Lorem ipsum dolor sit amet consectetur adipisicing elit.Consequuntur eveniet illo repellendus a perferendis soluta consectetur odit expedita dignissimos non cumque, voluptatum rerum eaque rem magni, molestias repudiandae eligendi explicabo?",
+    "name":"Matt User2"
+},
+    {
+    "title":"News 3",
+    "src":"news.png",
+    "description" :"Lorem ipsum dolor sit amet consectetur adipisicing elit.Consequuntur eveniet illo repellendus a perferendis soluta consectetur odit expedita dignissimos non cumque, voluptatum rerum eaque rem magni, molestias repudiandae eligendi explicabo?",
+    "name":"Matt Test"
+}
+,
+    {
+    "title":"News 4",
+    "src":"news.png",
+    "description" :"Lorem ipsum dolor sit amet consectetur adipisicing elit.Consequuntur eveniet illo repellendus a perferendis soluta consectetur odit expedita dignissimos non cumque, voluptatum rerum eaque rem magni, molestias repudiandae eligendi explicabo?",
+    "name":"Matt User4"
+}
+]
